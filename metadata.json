@@ -1,0 +1,8 @@
+{
+  "name": "Copy of VidiGenius AI",
+  "description": "Advanced AI Video Analysis \u0026 Generation Studio. Transform any content into cinematic animations with Gemini 2.5 \u0026 Veo 3.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
